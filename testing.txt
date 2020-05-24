@@ -1,8 +1,6 @@
 hii
 hii again
 hola hola
-<<<<<<< HEAD
 hola 2
-=======
 hola 3
->>>>>>> feature-b
+bye
